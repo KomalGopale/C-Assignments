@@ -1,4 +1,4 @@
-/*program to check wether two numbers are equal or not*/
+/*program to check whether two numbers are equal or not*/
 #include <stdio.h>
 int main()
 {
