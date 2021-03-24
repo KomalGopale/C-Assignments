@@ -1,4 +1,4 @@
-/*program to check wether entered number is positive or not*/
+/*program to check whether entered number is positive or not*/
 #include <stdio.h>
 int main()
 {
